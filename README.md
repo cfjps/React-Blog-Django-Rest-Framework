@@ -3,7 +3,9 @@ The Net Ninja recently released a series about creating a Blog in React. Here I 
 
 To start using this application:
 
-Cd to the requirements.txt file and run the following in cmd/terminal pip3 install -r requirements.txt
-Run python manage.py runserver
-Open localhost:8000 in a browser.
+1.Cd to the requirements.txt file and run the following in cmd/terminal pip3 install -r requirements.txt
+2. Run python manage.py runserver
+3. Open localhost:8000 in a browser.
+
+
 Django Rest Framwork for the api calls. Also used DjangoCorsHeaders for POST/DELETE.
